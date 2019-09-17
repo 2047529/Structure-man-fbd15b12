@@ -1,0 +1,24 @@
+th {
+	background-color: #F0F0F0;
+	padding: 20px 20px 20px 20px;
+	text-align: center;
+	font-size: 20px;
+}
+td a{
+	background-color: #575757;
+	padding: 20px 20px 20px 20px;
+	text-align: center;
+	font-size: 20px;
+	color: #F0F0F0;
+	text-decoration: none;
+	display: block;
+}
+
+body {
+	font-family: Arial;
+}
+td a:hover{
+	display: block;
+	text-decoration: none;
+	color: #F0F0F0;
+}
